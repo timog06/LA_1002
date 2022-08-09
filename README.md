@@ -1,12 +1,14 @@
 # Willkommen zu meinem Projekt
 
+`Lorem` ipsum dolor sit amet, ~~consetetur~~ sadipscing elitr, *sed diam `nonumy eirmod tempor invidunt` ut labore ~~et dolore magna aliquyam **erat, sed diam~~ voluptua*. At vero** eos et accusam et ~~justo duo dolores `et ea rebum.` Stet clita~~ kasd gubergren, no sea takimata
+
 ## [NOT a RickRoll](https://www.youtube.com/watch?v=0wOZJ_b6qJ8)
 
-*Der obrige **Link** ist wirklich kein Rick Roll nur ein ganz **normaler** Link zu [YouTube](https://www.youtube.com/)*.
+2. *Der obrige **Link** ist wirklich kein Rick Roll nur ein ganz **normaler** Link zu [YouTube](https://www.youtube.com/)*.
 
 [JPG Öffnen](https://static.giga.de/wp-content/uploads/2017/04/jpg-oeffnen.jpg)
 
-Der Link auf der obrigen Zeile ist auch **ganz normal** und zeigt Ihnen ein Bild zu [.JPG]().
+3. Der Link auf der obrigen Zeile ist auch **ganz normal** und zeigt Ihnen ein Bild zu [.JPG]().
 
 ![JPG](https://i.imgflip.com/2zxmg9.jpg)
 
@@ -17,7 +19,7 @@ Der Link auf der obrigen Zeile ist auch **ganz normal** und zeigt Ihnen ein Bild
 
 
 
-```c#
+ ```c#
 using System;
 
 namespace HelloWorld
@@ -32,4 +34,4 @@ namespace HelloWorld
 }
 ```
 
-![image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/HelloWorld.svg/2560px-HelloWorld.svg.png)
+ ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/HelloWorld.svg/2560px-HelloWorld.svg.png)
